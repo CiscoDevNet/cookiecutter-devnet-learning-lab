@@ -1,0 +1,22 @@
+{
+  "labId": "{{cookiecutter.lab_name}}",
+  "title": "{{cookiecutter.lab_title }}",
+  "slug": "{{cookiecutter.lab_slug }}",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Lorem Ipsum Dolor",
+     "file":"1.md"},
+    {"title": "Step 2. The Next Step Title",
+     "file": "2.md"}
+  ],
+  "tags": [
+	{"title": "DevNet Labs Template"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "{{cookiecutter.author_name}}", "email": "{{cookiecutter.author_email}}"}
+  ],
+  "active": true
+}
