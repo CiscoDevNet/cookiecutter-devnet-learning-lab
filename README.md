@@ -38,4 +38,4 @@ another-lab             my-awesome-learning-lab
 Install it with this command, typically inside a virtual environment:
    ```
    $ pip install cookiecutter
-   ```f
+   ```
