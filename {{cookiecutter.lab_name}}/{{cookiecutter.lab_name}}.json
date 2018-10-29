@@ -11,7 +11,7 @@
      "file": "2.md"}
   ],
   "tags": [
-	{"title": "DevNet"}
+	{"title": "{{cookiecutter.lab_tag}}"}
   ],
   "related": [
   ],
