@@ -2,6 +2,7 @@
     "lab_name": "my-awesome-learning-lab",
     "lab_title": "lab title",
     "lab_slug": "One sentence description of the learning lab.",
+    "lab_tag": "One word or short phrase to categorize this lab.",
     "author_name": "John Smith",
     "author_email": "jsmith@company.com"
 }
